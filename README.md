@@ -5,5 +5,5 @@ My starter-kit / boilerplate / scaffold for [ProcessWire](https://processwire.co
 - [Twig](https://twig.symfony.com) for templates
 - [Tailwind CSS](https://tailwindcss.com) for CSS
 - [Parcel](https://parceljs.org) for JS
-- [browsersync](https://browsersync.io) for browser live reload during dev
+- [Browsersync](https://browsersync.io) for browser live reload during dev
 - [DDEV](https://ddev.com) for dev
